@@ -11,6 +11,10 @@ if (typeof(grooves) === "undefined")
 	"use strict";
 
 	var root = grooves;
+	
+	root.My_Pick = {
+		'Wujek Sixtuplet fill': './?TimeSig=4/4&Div=24&Tempo=63&Measures=1&H=|x--x--x--x--------------|&S=|------o--------o--o----o|&K=|o-----------oo--oo--oo--|&T1=|------------------------|&T4=|--------------o----o--o-|&Stickings=|--------------RL--------|'
+	};
 
 	root.Rock_Grooves = {
 		'Empty 16th note groove' : '?TimeSig=4/4&Div=16&Tempo=80&Measures=1&H=|----------------|&S=|----------------|&K=|----------------|',
@@ -42,6 +46,7 @@ if (typeof(grooves) === "undefined")
 	};
 
 	root.FullArray = {
+		"My pick:" : root.My_Pick,
 		"Rock grooves" : root.Rock_Grooves,
 		"Triplet grooves" : root.Triplet_Grooves,
 		"World grooves" : root.World_Grooves,
