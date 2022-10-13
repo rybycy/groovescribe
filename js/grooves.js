@@ -13,7 +13,8 @@ if (typeof(grooves) === "undefined")
 	var root = grooves;
 	
 	root.My_Pick = {
-		'Wujek Sixtuplet fill': './?TimeSig=4/4&Div=24&Tempo=63&Measures=1&H=|x--x--x--x--------------|&S=|------o--------o--o----o|&K=|o-----------oo--oo--oo--|&T1=|------------------------|&T4=|--------------o----o--o-|&Stickings=|--------------RL--------|'
+		'Wujek Sixtuplet fill': './?TimeSig=4/4&Div=24&Tempo=63&Measures=1&H=|x--x--x--x--------------|&S=|------o--------o--o----o|&K=|o-----------oo--oo--oo--|&T1=|------------------------|&T4=|--------------o----o--o-|&Stickings=|--------------RL--------|',
+		'Fajna szufla': './?TimeSig=4/4&Div=12&Title=Fajna%20szufla&Tempo=120&Measures=1&H=|r-rr-rr-rr-r|&S=|-g--g-O---g-|&K=|o-o--o-----o|'
 	};
 
 	root.Rock_Grooves = {
